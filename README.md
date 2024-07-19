@@ -1,4 +1,4 @@
-# CrowdStrike Fixer
+# CrowdStrike BSOD Fixer
 
 ## Fix for the 7/19/2024 CrowdStrike global outage.  REQUIRES ADMIN - NOT TESTED ON ACTUAL CRASHED HARDWARE.
 
@@ -10,8 +10,14 @@
 
 # Directions:
 
+- Clone this repo using ```git clone``` or click the green "Code" button above and "Download as ZIP"
+
+- Place this on a USB stick or some other storage medium to plug into an affected computer
+
 - Reboot BSOD-affected computer into safe mode
 
-- Run the Run.lnk file, or run Fix.bat as administrator.
+- Run the Run.lnk file, (or run Fix.bat as administrator)
 
 - Reboot the computer.
+
+
